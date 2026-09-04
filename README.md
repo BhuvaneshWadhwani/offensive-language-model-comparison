@@ -27,7 +27,7 @@ The LoRA decoder achieved the strongest reported test macro-F1, narrowly ahead o
 ## Repository Contents
 
 - [`offensive_language_model_comparison.ipynb`](offensive_language_model_comparison.ipynb): complete analysis and experiments.
-- [`assignment3_report.pdf`](report.pdf): written report.
+- [`report.pdf`](report.pdf): written report.
 - PNG files: class distributions, learning curves, confusion matrices, sample-efficiency curves, and attribution visualizations.
 - `roberta_offensive_classifier/` and `lora_offensive_classifier/`: saved model artifacts.
 
