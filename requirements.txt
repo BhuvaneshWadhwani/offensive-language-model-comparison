@@ -1,0 +1,12 @@
+accelerate
+captum
+datasets
+matplotlib
+numpy
+pandas
+peft
+scikit-learn
+seaborn
+torch
+torchsummary
+transformers
